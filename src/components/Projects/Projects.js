@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import newsWave from "../../Assets/Projects/newsWave.png";
 import donation from "../../Assets/Projects/donation.png";
 import career from "../../Assets/Projects/career.png";
+import partition from "../../Assets/Projects/partition.png";
 
 
 function Projects() {
@@ -32,7 +33,6 @@ function Projects() {
               demoLink="https://the-dragon-news-eb6e8.web.app/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={donation}
@@ -46,7 +46,16 @@ function Projects() {
               demoLink="https://66499651089caa7653464079--chipper-trifle-006562.netlify.app/"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={partition}
+              isBlog={false}
+              title="Recursive-Partition"
+              description="Start with a single, vibrant partition as your canvas. Click 'H' (Horizontal) or 'V' (Vertical) to split the partition into two sections, and continue dividing infinitely as desired. Each section operates independently and can be removed using the “-” button for easy customization. Powered by dynamic, recursive logic."
+              ghLink="https://github.com/majbaulhoque/Recursive-Partitioner"
+              demoLink="https://soft-scone-ed9278.netlify.app/"              
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={career}
