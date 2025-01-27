@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5826563e.css",
-    "main.js": "/static/js/main.8e9518f7.js",
+    "main.css": "/static/css/main.08f5def9.css",
+    "main.js": "/static/js/main.3967b839.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Kazi Ziaur Rahman Majba.pdf": "/static/media/Kazi Ziaur Rahman Majba.7eeec81fefff541f29ef.pdf",
     "static/media/majba.png": "/static/media/majba.dc22f6068e8a0d940523.png",
+    "static/media/patient.png": "/static/media/patient.c18b0927e3519d749026.png",
+    "static/media/partition.png": "/static/media/partition.8545dc3394cceb9c9022.png",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Kazi ZIaur Rahman Majba.pdf": "/static/media/Kazi ZIaur Rahman Majba.679bbcad58d219a9cd5f.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.5826563e.css.map": "/static/css/main.5826563e.css.map",
-    "main.8e9518f7.js.map": "/static/js/main.8e9518f7.js.map",
+    "main.08f5def9.css.map": "/static/css/main.08f5def9.css.map",
+    "main.3967b839.js.map": "/static/js/main.3967b839.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5826563e.css",
-    "static/js/main.8e9518f7.js"
+    "static/css/main.08f5def9.css",
+    "static/js/main.3967b839.js"
   ]
 }

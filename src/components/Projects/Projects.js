@@ -6,6 +6,7 @@ import newsWave from "../../Assets/Projects/newsWave.png";
 import donation from "../../Assets/Projects/donation.png";
 import career from "../../Assets/Projects/career.png";
 import partition from "../../Assets/Projects/partition.png";
+import patient from "../../Assets/Projects/patient.png";
 
 
 function Projects() {
@@ -67,6 +68,16 @@ function Projects() {
               the application process"
               ghLink="https://github.com/majbaulhoque/React-career-hub"
               demoLink="https://6644579e1d25fe5daaf16a10--merry-centaur-cd7e4f.netlify.app/"              
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={patient}
+              isBlog={false}
+              title="Doctor-Hub"
+              description="It is a fully responsive, interactive single-page application built with React and Tailwind CSS. Featuring sleek animations powered by Framer Motion, it offers a dynamic and engaging user experience. The design seamlessly adapts to all devices, incorporating modern transitions and interactive components for a visually appealing, user-friendly interface."
+              ghLink="https://github.com/majbaulhoque/HealthX-Ventures"
+              demoLink="https://flourishing-gnome-bf3670.netlify.app/"              
             />
           </Col>
         </Row>
