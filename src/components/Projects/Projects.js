@@ -8,7 +8,6 @@ import career from "../../Assets/Projects/career.png";
 import partition from "../../Assets/Projects/partition.png";
 import patient from "../../Assets/Projects/patient.png";
 
-
 function Projects() {
   return (
     <Container fluid className="project-section">
